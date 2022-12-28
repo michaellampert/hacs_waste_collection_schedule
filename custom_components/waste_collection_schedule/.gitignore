@@ -1,1 +1,6 @@
 .calendar.py
+.services.yaml
+.sensor.py
+.manifest.json
+.const.py
+
