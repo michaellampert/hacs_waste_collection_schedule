@@ -9,3 +9,6 @@ custom_components/waste_collection_schedule/waste_collection_schedule/test/secre
 .venv/
 .idea/
 .hacs.json
+.pre-commit-config.yaml
+.FUNDING.yaml
+.requirements.txt
