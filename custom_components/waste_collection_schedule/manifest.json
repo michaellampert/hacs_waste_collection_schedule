@@ -1,0 +1,7 @@
+{
+    "requirements": [
+      "icalevents",
+      "pyyaml",
+      "voluptuous"
+    ]
+  }
